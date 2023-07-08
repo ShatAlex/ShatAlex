@@ -1,16 +1,15 @@
-### Hi there 👋
+# Alexander Shaturnyi 👋
 
-<!--
-**ShatAlex/ShatAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: Languages and Tools
+![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Golang-gray?style=for-the-badge&logo=go)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=MySQL)
+![Oracle](https://img.shields.io/badge/Oracle-gray?style=for-the-badge&logo=Oracle)
+![Django](https://img.shields.io/badge/Django-gray?style=for-the-badge&logo=Django)
+![FastAPI](https://img.shields.io/badge/FastAPI-gray?style=for-the-badge&logo=FastAPI)
+![Redis](https://img.shields.io/badge/Redis-gray?style=for-the-badge&logo=Redis)
+![Celery](https://img.shields.io/badge/Celery-gray?style=for-the-badge&logo=Celery)
+![Gin](https://img.shields.io/badge/Gin-gray?style=for-the-badge&logo=Gin)
+![Aiogram](https://img.shields.io/badge/Aiogram-gray?style=for-the-badge&logo=Aiogram)
+![BS4](https://img.shields.io/badge/BS4-gray?style=for-the-badge&logo=BS4)
