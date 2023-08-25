@@ -11,6 +11,5 @@
 ![Redis](https://img.shields.io/badge/Redis-gray?style=for-the-badge&logo=Redis)
 ![Celery](https://img.shields.io/badge/Celery-gray?style=for-the-badge&logo=Celery)
 ![Gin](https://img.shields.io/badge/Gin-gray?style=for-the-badge&logo=Gin)
-![Gorilla/WebSocket](https://img.shields.io/badge/Gin-gray?style=for-the-badge&logo=Gorilla/WebSocket)
 ![Aiogram](https://img.shields.io/badge/Aiogram-gray?style=for-the-badge&logo=Aiogram)
 ![BS4](https://img.shields.io/badge/BS4-gray?style=for-the-badge&logo=BS4)
