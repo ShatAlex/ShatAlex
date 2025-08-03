@@ -3,20 +3,20 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f3f2f2?style=for-the-badge&logo=PostgreSQL)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-273949?style=for-the-badge&logo=ClickHouse)
 ![MySQL](https://img.shields.io/badge/mysql-3d82b8?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-f3f2f2?style=for-the-badge&logo=Redis)
 ![Oracle](https://img.shields.io/badge/Oracle-e52b50?style=for-the-badge&logo=Oracle)
 </br>
 ![Django](https://img.shields.io/badge/Django-113228?style=for-the-badge&logo=Django)
-![FastAPI](https://img.shields.io/badge/FastAPI-1d9386?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Celery](https://img.shields.io/badge/Celery-739a31?style=for-the-badge&logo=Celery)
 ![Gin](https://img.shields.io/badge/Gin-008ece?style=for-the-badge)
 ![Aiogram](https://img.shields.io/badge/Aiogram-009af7?style=for-the-badge&logo=Aiogram)
 ![Aiogram](https://img.shields.io/badge/YandexCloud-f3f2f2?style=for-the-badge&logo=YandexCloud)
 
-# 🌍 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaturnyi.alexander@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-e9ecec?logo=telegram&logoColor=blue)](link:https://t.me/A1exander7)
+# 🌍 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaturnyi.alexander@gmail.com) [![telegram](https://img.shields.io/badge/Telegram-e9ecec?logo=telegram&logoColor=blue)](https://t.me/A1exander7)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ShatAlex&theme=one_dark_pro&hide_border=true)
